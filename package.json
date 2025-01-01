@@ -13,5 +13,6 @@
     "@astrojs/rss": "^4.0.10",
     "astro": "^5.1.1",
     "preact": "^10.25.4"
-  }
+  },
+  "packageManager": "yarn@4.6.0"
 }
